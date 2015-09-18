@@ -1,0 +1,11 @@
+
+prior to april 21, 3 hrs in total but then changed project
+april 21 tues -> 2 hours -> started programming tower defense game, made grid and towers
+april 22 wed  -> 5 hours -> added shooting (basic), money, and enemies
+april 23 thur -> 3 hours  -> completing deliverable 2, fixed shooting, started making path
+april 24 fri  -> 1 hour 
+april 25 sat  -> 4 hours
+april 26 sun  -> 5 hours
+april 27 mon  -> 5 hours
+april 28 tue  -> 5 hours
+april 29 wed  -> 5 hours
